@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DietaryZ</string>
+    <string name="reporter_name">Name       : </string>
+    <string name="food_name"    >Food Name  : </string>
+    <string name="food_group"   >Food Group : </string>
+    <string name="date"         >Date : </string>
+    <string name="time"         >Time : </string>
+    <string name="meal_type"    >Meal Type  : </string>
+    <string name="note"         >Note       : </string>
+    <string name="back"         >Back</string>
+    <string name="review"       >Review</string>
+    <string name="submit"       >Submit </string>
+
+</resources>
